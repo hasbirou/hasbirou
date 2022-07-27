@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **management and optimzation of hybrid system based on renewabl energy and batteries**
 
-- 🌱 I’m currently learning **Optimization methods**
+- 🌱 I’m currently learning **JAVA and C++**
 
 - 📫 How to reach me **abirtct@gmail.com**
 
