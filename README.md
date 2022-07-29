@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **management and optimzation of hybrid system based on renewabl energy and batteries**
 
-- 🌱 I’m currently learning **Optimization methods**
+- 🌱 I’m currently learning **Java and C++**
 
 - 🏭 I’m looking to collaborate on **robotic project**
 
