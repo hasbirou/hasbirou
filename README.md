@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abir</h1>
-<h3 align="center">👩‍💻💻 Researcher in the field of Renewable Energy and Robotic.</h3>
+<h3 align="center">👩‍💻💻 Researcher in the field of Robotic and Renewable Energy.</h3>
 
 - 🔭 I’m currently working on **management and optimzation of hybrid system based on renewabl energy and batteries**
 
@@ -12,7 +12,7 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/abir-hasnaoui-138700174/](https://www.linkedin.com/in/abir-hasnaoui-138700174/)
 
 - ⚡ Fun fact **My hobbies : 📚🎨🥊🥋🐎**
-
+![Robot logo](https://user-images.githubusercontent.com/110122233/181877099-a0d4690b-b586-463e-86dc-097320f15425.jpg)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abir hasnaoui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abir hasnaoui" height="30" width="40" /></a>
