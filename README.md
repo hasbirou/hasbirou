@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abir</h1>
 <h3 align="center">👩‍💻💻 Researcher in the field of Robotic and Renewable Energy.</h3>
 
-- 🔭 I’m currently working on **management and optimzation of hybrid system based on renewabl energy and batteries**
+- 🔭 I’m currently working as **Assistant Professor at Ecole Supérieur en Génie Electrique et Energétique d'Oran, Algérie**
 
 - 🌱 I’m currently learning **Java and C++**
 
